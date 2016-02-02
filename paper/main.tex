@@ -1,0 +1,82 @@
+\documentclass{llncs}
+
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[american]{babel}
+%\usepackage{amsmath}
+%\usepackage{mathtools}
+\usepackage{microtype}
+
+\usepackage{tikz,pgfplots}
+\usetikzlibrary{arrows}
+\usetikzlibrary{decorations.markings}
+\pgfplotsset{compat=1.10} 
+\usepackage{tikzscale}
+\usepackage{booktabs}
+\usepackage{nicefrac}
+\usepackage[hyphens]{url}
+\usepackage{tabu}
+\usepackage{csquotes}
+%\usepackage[load-configurations={abbreviations,binary}]{siunitx}
+\usepackage[binary-units=true]{siunitx}
+\usepackage[np]{numprint}
+\usepackage{graphicx}
+%\usepackage{subfig}
+\usepackage{subfigure}
+\npstyleenglish
+
+%\usepackage[nowarn]{glossaries}
+%\input{glossary.tex}
+
+\usepackage[url=false,doi=false,backend=biber,style=ieee,sorting=none,maxnames=3]{biblatex}
+\DeclareFieldFormat{labelnumberwidth}{\mkbibbold{#1.}}
+\addbibresource{literature.bib}
+
+\newcommand{\picwidth}{0.49\columnwidth}
+
+\begin{document}
+\title{Classifying games}
+
+\author{Christian Moldovan \and Tobias Hoßfeld}
+\institute{University of Duisburg-Essen\\
+Modeling of Adaptive Systems\\
+Essen, Germany\\
+Email: 
+\email{christian.moldovan@uni-due.de},
+\email{tobias.hossfeld@uni-due.de}}
+
+%\author{
+%\IEEEauthorblockN{Christian Moldovan}
+%\IEEEauthorblockA{University of Duisburg-Essen\\
+%Modeling of Adaptive Systems\\
+%Essen, Germany\\
+%Email: christian.moldovan@uni-due.de}
+%\and
+%\IEEEauthorblockN{Florian Metzger}
+%\IEEEauthorblockA{University of Duisburg-Essen\\
+%Modeling of Adaptive Systems\\
+%Essen, Germany\\
+%Email: florian.metzger@uni-due.de}
+%\and
+%\IEEEauthorblockN{Tobias Hoßfeld}
+%\IEEEauthorblockA{University of Duisburg-Essen\\
+%Modeling of Adaptive Systems\\
+%Essen, Germany\\
+%Email: tobias.hossfeld@uni-due.de}
+%}
+% make the title area
+\maketitle
+
+\input{abstract.tex}
+\input{introduction}
+\input{relatedWork}
+\input{how}
+\input{what}
+\input{conclusion}
+
+\printbibliography
+
+%\input{notion}
+
+\end{document}
