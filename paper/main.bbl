@@ -1,0 +1,126 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{none}{none}
+    \entry{jarschel2011evaluation}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=2d966287909a6566be7e813262d26c88}{Jarschel}{J\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8b6ffe53d665d10c4f9c292f48e14b6f}{Schlosser}{S\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=e39967569d2ee7ad7223ee6d0eecc803}{Scheuring}{S\bibinitperiod}{Sven}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=88fbc26861c8cfa78f8706d6d5251ee2}{Ho{ß}feld}{H\bibinitperiod}{Tobias}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=2d966287909a6566be7e813262d26c88}{Jarschel}{J\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8b6ffe53d665d10c4f9c292f48e14b6f}{Schlosser}{S\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=e39967569d2ee7ad7223ee6d0eecc803}{Scheuring}{S\bibinitperiod}{Sven}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=88fbc26861c8cfa78f8706d6d5251ee2}{Ho{ß}feld}{H\bibinitperiod}{Tobias}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6651ec281e6c92e96d4df22e93a05742}
+      \strng{fullhash}{b4710380b981293ea4317c41eac4a0ac}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{An evaluation of QoE in cloud gaming based on subjective tests}
+      \field{booktitle}{Innovative Mobile and Internet Services in Ubiquitous Computing (IMIS), 2011 Fifth International Conference on}
+      \field{title}{An evaluation of QoE in cloud gaming based on subjective tests}
+      \field{year}{2011}
+      \field{pages}{330\bibrangedash 335}
+    \endentry
+    \entry{claypool2006effects}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=f4e0c08d7c72b4d7cddc5cbebce39ed8}{Claypool}{C\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=155585f496a22e48e82a7cc1195f8908}{Claypool}{C\bibinitperiod}{Kajal}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f106e3e7a9dfb3d6eee72a8583fb9a9b}{Damaa}{D\bibinitperiod}{Feissal}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=f4e0c08d7c72b4d7cddc5cbebce39ed8}{Claypool}{C\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=155585f496a22e48e82a7cc1195f8908}{Claypool}{C\bibinitperiod}{Kajal}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=f106e3e7a9dfb3d6eee72a8583fb9a9b}{Damaa}{D\bibinitperiod}{Feissal}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{2}{%
+        {International Society for Optics}%
+        {Photonics}%
+      }
+      \strng{namehash}{c8bf46891aba64af3db8d25f128c086a}
+      \strng{fullhash}{c8bf46891aba64af3db8d25f128c086a}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{The effects of frame rate and resolution on users playing first person shooter games}
+      \field{booktitle}{Electronic Imaging 2006}
+      \field{title}{The effects of frame rate and resolution on users playing first person shooter games}
+      \field{year}{2006}
+      \field{pages}{607101\bibrangedash 607101}
+    \endentry
+    \entry{pathania2014integrated}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=a39d42003e527c2170583ad365871b37}{Pathania}{P\bibinitperiod}{Anuj}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=82bd5f5f9f7bbf657c29136dc60c6205}{Jiao}{J\bibinitperiod}{Qing}{Q\bibinitperiod}{}{}{}{}}%
+        {{hash=b4a5520dc98b7e707429c9415c52d4bb}{Prakash}{P\bibinitperiod}{Aravind}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=64cf93678ff26b47b594fb5968fbd4e5}{Mitra}{M\bibinitperiod}{Tulika}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=a39d42003e527c2170583ad365871b37}{Pathania}{P\bibinitperiod}{Anuj}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=82bd5f5f9f7bbf657c29136dc60c6205}{Jiao}{J\bibinitperiod}{Qing}{Q\bibinitperiod}{}{}{}{}}%
+        {{hash=b4a5520dc98b7e707429c9415c52d4bb}{Prakash}{P\bibinitperiod}{Aravind}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=64cf93678ff26b47b594fb5968fbd4e5}{Mitra}{M\bibinitperiod}{Tulika}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{273b821d32a33588d535b51e3a71a24d}
+      \strng{fullhash}{e2867830e80e468378e4a120c2c417f1}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Integrated cpu-gpu power management for 3d mobile games}
+      \field{booktitle}{Design Automation Conference (DAC), 2014 51st ACM/EDAC/IEEE}
+      \field{title}{Integrated cpu-gpu power management for 3d mobile games}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 6}
+    \endentry
+    \entry{claypool2006latency}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=f4e0c08d7c72b4d7cddc5cbebce39ed8}{Claypool}{C\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=155585f496a22e48e82a7cc1195f8908}{Claypool}{C\bibinitperiod}{Kajal}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=f4e0c08d7c72b4d7cddc5cbebce39ed8}{Claypool}{C\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=155585f496a22e48e82a7cc1195f8908}{Claypool}{C\bibinitperiod}{Kajal}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{ec82db5f8b6395566baffec66019c3db}
+      \strng{fullhash}{ec82db5f8b6395566baffec66019c3db}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Latency and player actions in online games}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{11}
+      \field{title}{Latency and player actions in online games}
+      \field{volume}{49}
+      \field{year}{2006}
+      \field{pages}{40\bibrangedash 45}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

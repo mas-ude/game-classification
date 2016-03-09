@@ -48,6 +48,6 @@ Technical Dimensions of Games that impact the QoS (We focus on Technical and Per
 
 - required reaction time (ms)
 ? Accuracy and precision of input actions (i.e. cursor movement speed)
-? frequency of actions (1/s) APM
+? frequency of actions (1/s) APM / length of action cycle (s) (https://www.youtube.com/watch?v=bnRQMv0xIgg) based on [Salvucci & Goldberg (2000)]
 ? camera perspective that may be chosen by the player
 ? 'Genre'
